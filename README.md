@@ -24,4 +24,4 @@ This products demonstrates a backend system called E-commerce. Through the insom
 
  ![Alt text](./Pasted%20Graphic%201.png)
 
- ![Link to walk through] ()
+ ![Link to walk through] (https://watch.screencastify.com/v/5fksfAYEItsIwuaV9HNj)
